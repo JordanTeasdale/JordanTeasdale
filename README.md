@@ -1,4 +1,4 @@
-# <img alt="jojo" width="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4M2YyM2UwNDRmODQzMDZlOTQwZjNmZTcyZjk5YzdmZmY0MmE4YSZjdD1z/rtRflhLVzbNWU/giphy.gif"/> Jordan Teasdale
+# <img alt="jojo" width="40px" src="https://media4.giphy.com/media/8GfE5nWPFt1RGMl8Lk/giphy.gif?cid=ecf05e47ov9ve9g8z1uhg74dwc2a6v1ymeug4fi7mapbwowc&ep=v1_stickers_search&rid=giphy.gif"/> Jordan Teasdale
 
 **`Tools Engineer`**
 
